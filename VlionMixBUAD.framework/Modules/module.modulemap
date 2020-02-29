@@ -1,0 +1,6 @@
+framework module VlionMixBUAD {
+  umbrella header "VlionMixBUAD.h"
+
+  export *
+  module * { export * }
+}
